@@ -1,5 +1,11 @@
 ### Hi there, It's me Prasad 👋
 
+#### Links:
+- Gmail : prasadbhatane701@gmail.com
+- LinkedIn : https://www.linkedin.com/in/prasadbhatane/
+- HackerRank : https://www.hackerrank.com/prasadbhatane
+- Codechef : https://www.codechef.com/users/prasadbhatane
+
 #### My Skills:
 - Interests : Competitive Programming | Data Structures | Algorithms | Web Development | Deep Learning | Computer Vision | Machine Learning
 - Programming : Python | JavaScript | HTML5 | CSS3 | SQL 
