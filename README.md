@@ -1,5 +1,4 @@
 ### Hi there, It's me Prasad 👋
-[![HitCount](http://hits.dwyl.com/prasadbhatane/prasadbhatane.svg)](http://hits.dwyl.com/prasadbhatane/prasadbhatane)
 
 ### Links:
 <p align="left">
